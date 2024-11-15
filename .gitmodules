@@ -1,3 +1,6 @@
 [submodule "Auditorium-Exercises"]
 	path = Auditorium-Exercises
 	url = https://github.com/MilenaTrajanoska/vnp-24-25.git
+[submodule "Auditorium-Exercises-2"]
+	path = Auditorium-Exercises-2
+	url = https://gitlab.com/jovana.dobreva16/python.git
